@@ -1,0 +1,32 @@
+---
+layout: default
+title: 고전 문장
+description: "매일 아침 배달되는 고전의 한 문장을 모아 둡니다."
+permalink: /classic/
+---
+
+<section class="content-section" id="classic-posts" aria-labelledby="classic-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">CLASSIC QUOTES</p>
+      <h2 id="classic-title">고전 문장</h2>
+    </div>
+    <p>매일 아침 7시 21분에 배달되는 고전의 한 문장을 모아 둡니다.</p>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.categories["고전 문장"] %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title }} 글 읽기">
+        <div class="card-top"><span class="card-category">{{ post.category | default: '기록' }}</span><span aria-hidden="true" class="card-arrow">↗</span></div>
+        <div>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 105 }}</p>
+        </div>
+        <span class="read-more">글 읽기 <span aria-hidden="true">→</span></span>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
