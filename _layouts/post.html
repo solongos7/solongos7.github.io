@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="article">
+  <a class="back-link" href="{{ '/#posts' | relative_url }}"><span aria-hidden="true">←</span> 모든 글</a>
+  <header class="article-header">
+    <p class="section-kicker">{{ page.category | default: '기록' }}</p>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y년 %-m월 %-d일' }}</time>
+  </header>
+  <div class="article-body">{{ content }}</div>
+  <div class="article-end" aria-hidden="true">✳ ✳ ✳</div>
+  <a class="button button-outline" href="{{ '/#posts' | relative_url }}">최근 글로 돌아가기 <span aria-hidden="true">→</span></a>
+</article>

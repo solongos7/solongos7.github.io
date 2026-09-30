@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# SolongoS :: 무지개 나라
 
-You can use the [editor on GitHub](https://github.com/solongos7/solongos7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+GitHub Pages와 Jekyll로 만든 개인 블로그입니다. 사이트 주소는 <https://solongos7.github.io/>입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 새 글 추가하기
 
-### Markdown
+1. `_posts` 폴더에 `YYYY-MM-DD-english-slug.md` 형식으로 파일을 만듭니다. 예: `_posts/2026-10-01-new-story.md`.
+2. 파일 맨 위에 아래 내용을 넣고, 그 아래에 Markdown으로 본문을 작성합니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   ```markdown
+   ---
+   layout: post
+   title: "새 글 제목"
+   date: 2026-10-01
+   category: "일상"
+   description: "글을 짧게 소개하는 문장"
+   ---
 
-```markdown
-Syntax highlighted code block
+   여기에 첫 문단을 작성합니다.
 
-# Header 1
-## Header 2
-### Header 3
+   ## 소제목
 
-- Bulleted
-- List
+   이어지는 내용을 작성합니다.
+   ```
 
-1. Numbered
-2. List
+3. `main` 브랜치에 변경 사항을 올리면 GitHub Pages가 사이트를 다시 빌드합니다. 새 글은 홈의 **최근 글**에 날짜순으로 자동 표시됩니다.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solongos7/solongos7.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+글을 수정할 때는 해당 Markdown 파일을 고치면 됩니다. 홈의 소개 문구는 `index.html`, 색상과 화면 구성은 `assets/css/style.css`에서 바꿀 수 있습니다.
