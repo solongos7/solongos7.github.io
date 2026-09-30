@@ -1,6 +1,7 @@
 title: "SolongoS :: 무지개 나라"
 description: "일상에서 발견한 생각과 배움을 기록하는 개인 블로그"
 lang: ko
+timezone: Asia/Seoul
 url: "https://solongos7.github.io"
 baseurl: ""
 permalink: /:year/:month/:day/:title/
