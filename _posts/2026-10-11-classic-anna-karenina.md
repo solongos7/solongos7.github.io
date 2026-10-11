@@ -6,13 +6,13 @@ category: "고전 문장"
 description: "레프 톨스토이 『안나 카레니나』의 한 문장. 2026년 10월 11일 아침 문장."
 ---
 
-<img src="/assets/covers/2026-10-11-anna-karenina.jpg" alt="『안나 카레니나』 표지" width="180">
+<img src="/assets/covers/2026-10-11-anna-karenina.jpg" alt="『안나 카레니나』 표지" width="180"> <img src="/assets/authors/leo-tolstoy.jpg" alt="레프 톨스토이" width="120">
+
 
 > 행복(幸福)한 가정(家庭)은 모두 서로 닮아 있고, 불행(不幸)한 가정(家庭)은 제각기 다른 이유(理由)로 불행(不幸)하다.
 >
 > — 레프 톨스토이, 『안나 카레니나』
 
-<img src="/assets/authors/leo-tolstoy.jpg" alt="레프 톨스토이" width="120">
 
 톨스토이의 가장 유명한 첫 문장입니다. 이 한 줄로 오블론스키가의 파탄, 안나와 브론스키의 운명, 레빈과 키티의 사랑까지 — 팔 백 쪽이 넘는 대작의 문이 열립니다.
 

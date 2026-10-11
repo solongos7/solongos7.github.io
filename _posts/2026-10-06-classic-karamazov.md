@@ -6,13 +6,13 @@ category: "고전 문장"
 description: "도스토옙스키 『카라마조프가의 형제들』의 한 문장. 2026년 10월 6일 아침 문장."
 ---
 
-<img src="/assets/covers/2026-10-06-karamazov.jpg" alt="『카라마조프가의 형제들』 표지" width="180">
+<img src="/assets/covers/2026-10-06-karamazov.jpg" alt="『카라마조프가의 형제들』 표지" width="180"> <img src="/assets/authors/fyodor-dostoevsky.jpg" alt="도스토옙스키" width="120">
+
 
 > 미(美)는 세계(世界)를 구원(救援)하리라.
 >
 > — 도스토옙스키, 『카라마조프가의 형제들』
 
-<img src="/assets/authors/fyodor-dostoevsky.jpg" alt="도스토옙스키" width="120">
 
 도스토옙스키의 마지막 장편에 등장하는 이 한 문장은, 소설 전체의 무거운 질문들을 단숨에 뒤집습니다. 신의 존재, 악의 문제, 인간의 죄 — 그 모든 논쟁 끝에 남는 답이 '아름다움'이라니, 얼핏 순진해 보이기까지 합니다.
 

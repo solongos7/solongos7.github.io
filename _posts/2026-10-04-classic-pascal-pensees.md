@@ -6,13 +6,13 @@ category: "고전 문장"
 description: "블레즈 파스칼 『팡세』의 한 문장. 2026년 10월 4일 아침 문장."
 ---
 
-<img src="/assets/covers/2026-10-04-pascal-pensees.jpg" alt="『팡세』 표지" width="180">
+<img src="/assets/covers/2026-10-04-pascal-pensees.jpg" alt="『팡세』 표지" width="180"> <img src="/assets/authors/blaise-pascal.jpg" alt="블레즈 파스칼" width="120">
+
 
 > 인간(人間)은 생각하는 갈대(蘆葦)이다. 우주(宇宙)가 그를 짓눌러도, 그는 그를 죽이는 것보다 고귀(高貴)하다. 자신이 죽는다는 것을 알기 때문이다.
 >
 > — 블레즈 파스칼, 『팡세』
 
-<img src="/assets/authors/blaise-pascal.jpg" alt="블레즈 파스칼" width="120">
 
 블레즈 파스칼은 수학자(數學者)이자 물리학자(物理學者), 그리고 종교 철학자(宗敎哲學者)였습니다. 삼십구 년의 짧은 생애(生涯) 동안 그는 확률론(確率論)을 닦고 대기압(大氣壓)을 증명(證明)했으며, 동시에 인간 존재(存在)의 근원(根源)을 묻는 사색(思索)을 멈추지 않았습니다.
 

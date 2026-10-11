@@ -6,13 +6,13 @@ category: "고전 문장"
 description: "마르셀 프루스트 『잃어버린 시간을 찾아서』의 한 문장. 2026년 10월 8일 아침 문장."
 ---
 
-<img src="/assets/covers/2026-10-08-proust-new-eyes.jpg" alt="『잃어버린 시간을 찾아서』 표지" width="180">
+<img src="/assets/covers/2026-10-08-proust-new-eyes.jpg" alt="『잃어버린 시간을 찾아서』 표지" width="180"> <img src="/assets/authors/marcel-proust.jpg" alt="마르셀 프루스트" width="120">
+
 
 > 진정한 발견(發見)의 여행(旅行)은 새로운 풍경(風景)을 찾아 나서는 데 있는 것이 아니라, 새로운 눈을 갖는 데 있다.
 >
 > — 마르셀 프루스트, 『잃어버린 시간을 찾아서』
 
-<img src="/assets/authors/marcel-proust.jpg" alt="마르셀 프루스트" width="120">
 
 길 잃은 시간을 되찾으려 일곱 권을 쓴 작가가 남긴 한 줄입니다. 어딘가로 떠나야 한다는 강박 대신, 지금 보고 있는 것을 달리 보라는 제안이라는 게 좋습니다.
 

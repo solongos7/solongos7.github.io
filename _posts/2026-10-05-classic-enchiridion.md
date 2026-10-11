@@ -6,13 +6,13 @@ category: "고전 문장"
 description: "에픽테토스 『엥케이리디온』의 한 문장. 2026년 10월 5일 아침 문장."
 ---
 
-<img src="/assets/covers/2026-10-05-enchiridion.jpg" alt="『엥케이리디온』 표지" width="180">
+<img src="/assets/covers/2026-10-05-enchiridion.jpg" alt="『엥케이리디온』 표지" width="180"> <img src="/assets/authors/epictetus.jpg" alt="에픽테토스" width="120">
+
 
 > 사람을 괴롭히는 것은 사물(事物)이 아니라, 사물(事物)에 대한 견해(見解)이다.
 >
 > — 에픽테토스, 『엥케이리디온』
 
-<img src="/assets/authors/epictetus.jpg" alt="에픽테토스" width="120">
 
 로마의 노예 출신 철학자 에픽테토스가 남긴 짧은 수기(手記)입니다. 스토아 학파의 핵심이 한 문장에 담겨 있습니다. 괴로운 일 앞에서 우리는 흔히 일 그 자체를 원망하지만, 정작 우리를 흔드는 건 그 일을 바라보는 마음의 각도입니다.
 

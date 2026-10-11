@@ -6,13 +6,13 @@ category: "고전 문장"
 description: "칼 세이건 『코스모스』의 한 문장. 2026년 10월 2일 아침 문장."
 ---
 
-<img src="/assets/covers/2026-10-02-cosmos.jpg" alt="『코스모스』 표지" width="180">
+<img src="/assets/covers/2026-10-02-cosmos.jpg" alt="『코스모스』 표지" width="180"> <img src="/assets/authors/carl-sagan.jpg" alt="칼 세이건" width="120">
+
 
 > 우주는 우리 안에 있다. 우리는 별의 물질(物質)로 만들어졌고, 우주(宇宙)가 자기 자신을 인식(認識)하는 한 가지 방법이다.
 >
 > — 칼 세이건, 『코스모스』
 
-<img src="/assets/authors/carl-sagan.jpg" alt="칼 세이건" width="120">
 
 칼 세이건은 천문학자(天文學者)이자 이 문장을 남긴 『코스모스』의 저자입니다. 수십억 년 전 별의 중심에서 만들어진 원소(元素)들이, 지금 우리 몸을 이루고 있다는 이야기죠.
 
