@@ -1,0 +1,32 @@
+---
+layout: default
+title: 모음집
+description: "특별한 주제의 글과 파일을 모아 두는 공간입니다."
+permalink: /collections/
+---
+
+<section class="content-section" id="collections-posts" aria-labelledby="collections-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">COLLECTIONS</p>
+      <h2 id="collections-title">모음집</h2>
+    </div>
+    <p>고전 문장·아침 음악과 별도로, 특별한 주제의 글과 파일을 모아 두는 공간입니다.</p>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.categories["모음집"] %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title }} 글 읽기">
+        <div class="card-top"><span class="card-category">{{ post.category | default: '기록' }}</span><span aria-hidden="true" class="card-arrow">↗</span></div>
+        <div>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 105 }}</p>
+        </div>
+        <span class="read-more">글 읽기 <span aria-hidden="true">→</span></span>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
