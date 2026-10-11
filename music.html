@@ -1,0 +1,32 @@
+---
+layout: default
+title: 아침 음악
+description: "매일 아침 추천되는 출근길 음악을 모아 둡니다."
+permalink: /music/
+---
+
+<section class="content-section" id="music-posts" aria-labelledby="music-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">MORNING MUSIC</p>
+      <h2 id="music-title">아침 음악</h2>
+    </div>
+    <p>매일 아침 7시 20분에 추천되는 출근길 음악을 모아 둡니다. 클래식 1곡, 대중음악 1곡.</p>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.categories["아침 음악"] %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title }} 글 읽기">
+        <div class="card-top"><span class="card-category">{{ post.category | default: '기록' }}</span><span aria-hidden="true" class="card-arrow">↗</span></div>
+        <div>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 105 }}</p>
+        </div>
+        <span class="read-more">글 읽기 <span aria-hidden="true">→</span></span>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
