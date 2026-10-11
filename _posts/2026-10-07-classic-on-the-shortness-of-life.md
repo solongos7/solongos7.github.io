@@ -6,7 +6,7 @@ category: "고전 문장"
 description: "세네카 『인생의 짧음에 대하여』의 한 문장. 2026년 10월 7일 아침 문장."
 ---
 
-<img src="/assets/authors/seneca.jpg" alt="세네카" width="120">
+<img src="/assets/covers/2026-10-07-on-the-shortness-of-life.jpg" alt="『인생의 짧음에 대하여』 표지" width="180"> <img src="/assets/authors/seneca.jpg" alt="세네카" width="120">
 
 > 우리의 인생(人生)은 짧지 않다. 우리가 그것을 짧게 만드는 것이다.
 >
