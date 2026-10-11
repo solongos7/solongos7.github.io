@@ -10,17 +10,36 @@ layout: default
   </header>
   <div class="article-body">{{ content }}</div>
   <div class="article-end" aria-hidden="true">✳ ✳ ✳</div>
+  {% comment %} 같은 분류 안에서만 이전글/다음글을 찾는다 (site.categories는 최신순) {% endcomment %}
+  {% if page.category %}
+    {% assign cat_posts = site.categories[page.category] %}
+    {% for p in cat_posts %}
+      {% if p.url == page.url %}
+        {% assign prev_i = forloop.index0 | plus: 1 %}
+        {% assign next_i = forloop.index0 | minus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% if prev_i < cat_posts.size %}
+      {% assign prev_post = cat_posts[prev_i] %}
+    {% endif %}
+    {% if next_i >= 0 %}
+      {% assign next_post = cat_posts[next_i] %}
+    {% endif %}
+  {% else %}
+    {% assign prev_post = page.previous %}
+    {% assign next_post = page.next %}
+  {% endif %}
   <nav class="post-nav" aria-label="이전글 다음글">
-    {% if page.previous %}
-    <a class="post-nav-item" href="{{ page.previous.url | relative_url }}">
+    {% if prev_post %}
+    <a class="post-nav-item" href="{{ prev_post.url | relative_url }}">
       <span class="post-nav-label"><span aria-hidden="true">←</span> 이전글</span>
-      <span class="post-nav-title">{{ page.previous.title }}</span>
+      <span class="post-nav-title">{{ prev_post.title }}</span>
     </a>
     {% endif %}
-    {% if page.next %}
-    <a class="post-nav-item post-nav-next" href="{{ page.next.url | relative_url }}">
+    {% if next_post %}
+    <a class="post-nav-item post-nav-next" href="{{ next_post.url | relative_url }}">
       <span class="post-nav-label">다음글 <span aria-hidden="true">→</span></span>
-      <span class="post-nav-title">{{ page.next.title }}</span>
+      <span class="post-nav-title">{{ next_post.title }}</span>
     </a>
     {% endif %}
   </nav>
