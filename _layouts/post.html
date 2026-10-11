@@ -10,5 +10,19 @@ layout: default
   </header>
   <div class="article-body">{{ content }}</div>
   <div class="article-end" aria-hidden="true">✳ ✳ ✳</div>
+  <nav class="post-nav" aria-label="이전글 다음글">
+    {% if page.previous %}
+    <a class="post-nav-item" href="{{ page.previous.url | relative_url }}">
+      <span class="post-nav-label"><span aria-hidden="true">←</span> 이전글</span>
+      <span class="post-nav-title">{{ page.previous.title }}</span>
+    </a>
+    {% endif %}
+    {% if page.next %}
+    <a class="post-nav-item post-nav-next" href="{{ page.next.url | relative_url }}">
+      <span class="post-nav-label">다음글 <span aria-hidden="true">→</span></span>
+      <span class="post-nav-title">{{ page.next.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
   <a class="button button-outline" href="{{ '/#posts' | relative_url }}">최근 글로 돌아가기 <span aria-hidden="true">→</span></a>
 </article>

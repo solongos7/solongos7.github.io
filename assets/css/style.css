@@ -28,3 +28,4 @@
 .writer-publish p{max-width:680px;color:#5b6b61;font-size:.95rem}
 .writer-publish code{background:#dce8d9;padding:2px 5px;border-radius:4px}
 @media(max-width:640px){.writer{margin:46px auto 75px}.writer-form,.writer-publish{padding:23px}.writer-row{grid-template-columns:1fr;gap:22px}}
+.post-nav{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:10px 0 30px}.post-nav-item{display:block;background:#fff;border:1px solid #edf0e9;border-radius:16px;padding:16px 20px;transition:transform .2s,box-shadow .2s}.post-nav-item:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(33,60,48,.08)}.post-nav-next{text-align:right}.post-nav-label{display:block;font-size:.78rem;font-weight:750;color:#859188;margin-bottom:6px}.post-nav-title{display:block;font-size:.98rem;font-weight:700;letter-spacing:-.03em;line-height:1.5}@media(max-width:640px){.post-nav{grid-template-columns:1fr}}
