@@ -24,6 +24,18 @@
       </div>
     </header>
     <main id="main" class="shell">{{ content }}</main>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('a[href^="http"]').forEach(function(a) {
+        try {
+          if (new URL(a.getAttribute('href'), location.href).host !== location.host) {
+            a.target = '_blank';
+            a.rel = 'noopener';
+          }
+        } catch (e) {}
+      });
+    });
+    </script>
     <footer class="site-footer">
       <div class="shell footer-inner">
         <span>© {{ 'now' | date: '%Y' }} SolongoS</span>
