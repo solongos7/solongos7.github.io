@@ -1,0 +1,32 @@
+---
+layout: default
+title: 신화이야기
+description: "매일 만나는 그리스·로마 신과 인물의 이야기를 모았습니다."
+permalink: /mythology/
+---
+
+<section class="content-section" id="mythology-posts" aria-labelledby="mythology-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">GREEK &amp; ROMAN MYTHOLOGY</p>
+      <h2 id="mythology-title">신화이야기</h2>
+    </div>
+    <p>매일 오전 9시, 그리스·로마 신 한 명과 인물 한 명의 이야기를 만납니다.</p>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.categories["신화이야기"] %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }} 글 읽기">
+        <div class="card-top"><span class="card-category">신화이야기</span><span aria-hidden="true" class="card-arrow">↗</span></div>
+        <div>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+          <h3>{{ post.title | escape }}</h3>
+          <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 105 }}</p>
+        </div>
+        <span class="read-more">글 읽기 <span aria-hidden="true">→</span></span>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>

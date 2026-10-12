@@ -8,3 +8,5 @@ permalink: /:year/:month/:day/:title/
 markdown: kramdown
 exclude:
   - README.md
+  - scripts
+  - tests
