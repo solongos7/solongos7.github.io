@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-05-c2d7cdd3f0a9
 ---
+<img src="/assets/mythology/asteria.jpg" alt="아스테리아" width="180"> <img src="/assets/mythology/nisus.jpg" alt="니소스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 아스테리아(Asteria) — 별똥별과 밤의 신탁에 관련된 티탄 여신이며, 헤카테의 어머니로 전해진다. 제우스의 구혼을 피해 메추라기로 변해 바다에 뛰어들었고, 델로스 섬이 되었다는 전승이 있다.

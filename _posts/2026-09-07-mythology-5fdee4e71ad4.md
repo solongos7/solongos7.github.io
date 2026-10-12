@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-07-5fdee4e71ad4
 ---
+<img src="/assets/mythology/epimetheus.jpg" alt="에피메테우스" width="180"> <img src="/assets/mythology/amphiaraus.jpg" alt="암피아라오스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 에피메테우스(Epimetheus) — ‘뒤늦게 생각하는 자’로 불리는 티탄 신격이며 프로메테우스의 형제이다. 제우스의 선물을 받지 말라는 경고를 어기고 판도라를 아내로 맞았다고 전해진다.

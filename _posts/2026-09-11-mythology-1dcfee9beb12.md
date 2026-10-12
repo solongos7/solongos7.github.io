@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-11-1dcfee9beb12
 ---
+<img src="/assets/mythology/asclepius.jpg" alt="아스클레피오스" width="180"> <img src="/assets/mythology/machaon.jpg" alt="마카온" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 아스클레피오스(Aesculapius) — 의술과 치유를 관장하는 신격이다. 죽은 이를 되살렸다는 전승 때문에 제우스의 번개를 맞았으나, 이후 신으로 숭배되었다고 전해진다.

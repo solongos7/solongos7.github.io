@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-05-58cff9b13dc2
 ---
+<img src="/assets/mythology/aphrodite.jpg" alt="아프로디테" width="180"> <img src="/assets/mythology/hippolytus.jpg" alt="히폴리토스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 아프로디테(Venus) — 사랑·욕망·미를 관장하는 여신이다. 히폴리토스가 자신을 경배하지 않자, 그의 계모 파이드라에게 그를 향한 욕망을 일으켰다는 전승이 전해진다.

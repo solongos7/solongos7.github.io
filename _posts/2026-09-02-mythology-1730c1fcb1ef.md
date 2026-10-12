@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-02-1730c1fcb1ef
 ---
+<img src="/assets/mythology/amphitrite.jpg" alt="암피트리테" width="180"> <img src="/assets/mythology/polyphemus.jpg" alt="폴리페모스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 암피트리테(Salacia) — 바다의 여왕으로, 포세이돈의 아내인 네레이스(바다 님프)이다. 전승에 따르면 포세이돈의 구혼을 피해 달아났으나 돌고래의 설득으로 혼인했다.

@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-18-2eba9f45cf35
 ---
+<img src="/assets/mythology/eris.jpg" alt="에리스" width="180"> <img src="/assets/mythology/paris.jpg" alt="파리스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 에리스(Discordia) — 불화와 다툼을 의인화한 여신이다. 펠레우스와 테티스의 혼인 잔치에 초대받지 못하자 ‘가장 아름다운 이에게’라고 새긴 황금 사과를 던져 여신들의 경쟁을 일으켰다.

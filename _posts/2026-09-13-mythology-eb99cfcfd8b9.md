@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-13-eb99cfcfd8b9
 ---
+<img src="/assets/mythology/tyche.jpg" alt="튀케" width="180"> <img src="/assets/mythology/bellerophon.jpg" alt="벨레로폰" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 튀케(Fortuna) — 행운·우연·도시의 운명을 관장하는 여신이다. 고대 그리스에서는 풍요의 뿔이나 방향타를 든 모습으로 묘사되어, 번영과 변덕스러운 운명을 함께 상징했다.

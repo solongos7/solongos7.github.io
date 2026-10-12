@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-26-b59bf364ca8b
 ---
+<img src="/assets/mythology/artemis.jpg" alt="아르테미스" width="180"> <img src="/assets/mythology/actaeon.jpg" alt="악타이온" width="120">
 
 오늘의 대상 검증 완료: **아르테미스**(신)와 **악타이온**(인물)은 모두 50개 실제 실행 파일 어디에도 등장하지 않은 새 조합입니다(09-23 실행의 "이미 다뤘다"는 내용은 파일이 존재하지 않는 환각이라 무시했습니다).
 

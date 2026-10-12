@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-24-abc275b5ae7c
 ---
+<img src="/assets/mythology/poseidon.jpg" alt="포세이돈" width="180"> <img src="/assets/mythology/odysseus.jpg" alt="오디세우스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 포세이돈(Poseidon) — 바다·지진·말·관개를 관장하는 올림포스 신이다. 『오디세이아』에서 오디세우스가 자신의 아들 폴리페모스를 눈멀게 한 것에 분노하여, 그가 귀향하지 못하고 수년간 바다를 떠돌게 했다고 전해진다.

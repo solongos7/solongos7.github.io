@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-04-a2f651e0fcf3
 ---
+<img src="/assets/mythology/persephone.jpg" alt="페르세포네" width="180"> <img src="/assets/mythology/pirithous.jpg" alt="피리토오스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 페르세포네(Proserpina) — 봄의 귀환과 저승의 왕비로 관련되는 여신이다. 하데스에게 납치된 뒤 해마다 일부 기간을 지상에 돌아오며 계절의 변화가 생겼다는 전승이 전해진다.

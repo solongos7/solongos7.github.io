@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-28-3bb43a8e8cc1
 ---
+<img src="/assets/mythology/zeus.jpg" alt="제우스" width="180"> <img src="/assets/mythology/io.jpg" alt="이오" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 제우스(Jupiter) — 하늘·번개·질서를 관장하는 올림포스의 최고신이다. 이오를 사랑해 그녀를 암소로 변모시켰고, 헤라의 감시를 피하려 했다는 전승이 전해진다.

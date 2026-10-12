@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-10-58a8dfcc6b03
 ---
+<img src="/assets/mythology/harmonia.jpg" alt="하르모니아" width="180"> <img src="/assets/mythology/lycaon.jpg" alt="리카온" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 하르모니아(Concordia) — 조화와 화합을 상징하는 여신으로, 아레스와 아프로디테의 딸로 전해진다. 카드모스와 혼인할 때 받은 목걸이와 옷은 후대 소유자들에게 불행을 불렀다는 전승이 있다.

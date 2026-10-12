@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-30-1cc8c41e0afb
 ---
+<img src="/assets/mythology/dionysus.jpg" alt="디오니소스" width="180"> <img src="/assets/mythology/ariadne.jpg" alt="아리아드네" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 디오니소스(Dionysus / Bacchus) — 포도주·풍요·연극·광기를 관장하는 올림포스 신이다. 제우스와 인간 여성 세멜레의 아들로, 인간에게서 태어나 올림포스에 오른 유일한 신이라는 전승이 전해진다. 포도 재배와 양조 기술을 인류에게 전했다고도 한다.

@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-12-5cd1d7ffa56b
 ---
+<img src="/assets/mythology/eros.jpg" alt="에로스" width="180"> <img src="/assets/mythology/psyche.jpg" alt="프쉬케" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 에로스(Cupid) — 사랑과 욕망을 관장하는 신이다. 아프로디테의 명으로 프쉬케에게 사랑을 일으키려다, 오히려 그녀와 사랑에 빠졌다고 전해진다.

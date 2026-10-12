@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-20-cce9be9787ec
 ---
+<img src="/assets/mythology/helios.jpg" alt="헬리오스" width="180"> <img src="/assets/mythology/phaethon.jpg" alt="파에톤" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 헬리오스(Sol) — 태양을 끄는 전차로 하늘을 가로지르는 티탄 신이다. 아들 파에톤에게 전차를 맡겼으나, 그가 제어하지 못해 세상이 불타오르자 제우스가 번개로 막았다고 전해진다.

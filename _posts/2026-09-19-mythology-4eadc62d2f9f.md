@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-09-19-4eadc62d2f9f
 ---
+<img src="/assets/mythology/athena.jpg" alt="아테나" width="180"> <img src="/assets/mythology/arachne.jpg" alt="아라크네" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 아테나(Minerva) — 지혜·전략 전쟁·직조를 관장하는 올림포스 여신이다. 리디아의 직조가 아라크네와 솜씨를 겨룬 뒤, 그녀를 거미로 바꾸었다는 전승이 전해진다.

@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-11-acc8b2a0bab2
 ---
+<img src="/assets/mythology/thanatos.jpg" alt="타나토스" width="180"> <img src="/assets/mythology/sisyphus.jpg" alt="시시포스" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 타나토스(Mors) — 죽음 그 자체를 의인화한 신격이다. 시시포스에게 사슬로 붙잡혀 한동안 아무도 죽지 못했으나, 아레스가 그를 풀어 주었다고 전해진다.

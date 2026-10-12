@@ -6,6 +6,7 @@ category: 신화이야기
 description: "그리스·로마 신과 인물의 이야기"
 myth_archive_id: 2026-08-06-bc71fdb844ee
 ---
+<img src="/assets/mythology/hephaestus.jpg" alt="헤파이스토스" width="180"> <img src="/assets/mythology/pandora.jpg" alt="판도라" width="120">
 
 ## 오늘의 그리스·로마 신화
 - **신:** 헤파이스토스(Vulcan) — 불·대장간·장인 기술을 관장하는 신이다. 헤시오도스 전승에서 제우스의 명으로 흙에서 판도라의 형상을 빚었다.
