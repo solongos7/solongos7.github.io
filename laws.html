@@ -1,0 +1,32 @@
+---
+layout: default
+title: 주요법령
+description: "학교 현장에서 자주 찾아보는 주요 법령·예규·지침을 정리해 둡니다."
+permalink: /laws/
+---
+
+<section class="content-section" id="laws-posts" aria-labelledby="laws-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">KEY LAWS &amp; REGULATIONS</p>
+      <h2 id="laws-title">주요법령</h2>
+    </div>
+    <p>학교 현장에서 자주 찾아보는 주요 법령·예규·지침을 정리해 둡니다.</p>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.categories["주요법령"] %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }} 글 읽기">
+        <div class="card-top"><span class="card-category">주요법령</span><span aria-hidden="true" class="card-arrow">↗</span></div>
+        <div>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+          <h3>{{ post.title | escape }}</h3>
+          <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 105 }}</p>
+        </div>
+        <span class="read-more">글 읽기 <span aria-hidden="true">→</span></span>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
