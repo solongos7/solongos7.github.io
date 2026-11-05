@@ -19,6 +19,17 @@ permalink: /mythology/
     <article class="post-card">
       <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }} 글 읽기">
         <div class="card-top"><span class="card-category">신화이야기</span><span aria-hidden="true" class="card-arrow">↗</span></div>
+        {% assign srcs = post.content | split: 'src="' %}
+        {% if srcs.size > 1 %}
+        <div class="card-images" style="display:flex;gap:8px;margin:10px 0;">
+          {% for part in srcs offset: 1 limit: 2 %}
+            {% assign src = part | split: '"' | first %}
+            {% if src contains '/assets/mythology/' %}
+            <img src="{{ src }}" alt="" loading="lazy" style="height:110px;width:auto;border-radius:8px;">
+            {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
         <div>
           <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
           <h3>{{ post.title | escape }}</h3>
